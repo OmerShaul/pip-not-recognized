@@ -1,0 +1,4 @@
+Open System Properties (Win + Pause, or right-click on "This PC" -> Properties).
+Click Advanced system settings -> Environment Variables.
+Under System Variables, scroll down and find the Path variable.
+add Path.
